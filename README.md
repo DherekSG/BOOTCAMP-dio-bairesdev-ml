@@ -56,3 +56,4 @@ Um agradecimento especial à **[DIO](https://www.dio.me/)** e à **[BairesDev](h
 Desenvolvedor Full Stack e entusiasta em **Machine Learning** e **Cibersegurança**.  
 
 📌 GitHub: [DherekSG](https://github.com/dhereksg)
+📌 linkedIn: [Dherek Schaberle](https://www.linkedin.com/in/dherekschaberle/)
