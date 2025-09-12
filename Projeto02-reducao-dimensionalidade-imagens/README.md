@@ -1,4 +1,4 @@
-# Projeto Redução de dimensionalidade de imagens
+# Projeto Redução de Dimensionalidade em Imagens para Redes Neurais
 
 Este projeto faz parte do Bootcamp da DIO e demonstra conceitos de **Machine Learning** e **Processamento de Imagens** em Python.
 
