@@ -1,4 +1,4 @@
-# Projeto Transfer Learning + Processamento de Imagens
+# Projeto Redução de dimensionalidade de imagens
 
 Este projeto faz parte do Bootcamp da DIO e demonstra conceitos de **Machine Learning** e **Processamento de Imagens** em Python.
 
