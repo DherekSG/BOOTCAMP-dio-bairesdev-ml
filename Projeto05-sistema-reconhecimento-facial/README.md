@@ -41,9 +41,7 @@ Abaixo, um exemplo do sistema detectando meu rosto com **100% de confiança**:
 ├── modelo/                # Pasta contendo o modelo treinado
 │   ├── detector/          # Rede de detecção de faces
 │   ├── classificador/     # Rede de classificação de faces
-├── utils/                 # Funções auxiliares
-├── dataset/               # Conjunto de dados para treino/teste
-└── main.ipynb             # Notebook principal com execução do sistema
+└── DetectarFace.ipynb             # Notebook principal com execução do sistema
 ```
 
 ---
