@@ -1,0 +1,10 @@
+tensorflow>=2.16.1
+tensorflow-hub>=0.16.1
+numpy
+pandas
+scikit-learn
+faiss-cpu
+Pillow
+matplotlib
+tqdm
+gradio
