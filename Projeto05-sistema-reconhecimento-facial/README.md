@@ -74,10 +74,3 @@ jupyter notebook main.ipynb
 - Slides utilizados no módulo (disponíveis na plataforma do curso)  
 
 ---
-
-## ✅ Considerações  
-
-- O projeto pode ser entregue apenas com o **modelo treinado** e um **notebook de execução** (`main.ipynb`).  
-- Porém, se desejar deixar mais organizado, você pode criar as pastas sugeridas na estrutura e enviar também scripts utilitários e o dataset (ou instruções de como baixá-lo).  
-
-📌 **Sugestão**: Se o objetivo for apenas a avaliação do desafio, enviar **o modelo treinado + notebook** já é suficiente.  
