@@ -16,7 +16,7 @@ O modelo deve identificar e reconhecer mais de uma face ao mesmo tempo, conforme
 **Exemplo de execução do modelo:**  
   
 ✅ Reconhecimento realizado com **100% de confiança** no meu rosto.  
-
+<img src="images/img2.png" alt="Minha Foto" width="400"/>
 ---
 
 ## 🔧 Tecnologias Utilizadas  
