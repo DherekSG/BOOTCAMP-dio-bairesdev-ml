@@ -10,13 +10,17 @@ O sistema deve ser capaz de:
 
 ---
 
-## 🖼️ Resultado Esperado  
-O modelo deve identificar e reconhecer mais de uma face ao mesmo tempo, conforme ilustrado na Figura 1.  
+## 🎥 Demonstração em Tempo Real
 
-**Exemplo de execução do modelo:**  
-  
-✅ Reconhecimento realizado com **100% de confiança** no meu rosto.  
-<img src="images/img2.png" alt="Minha Foto" width="400"/>
+O modelo de **Reconhecimento Facial** foi implementado utilizando a **webcam em tempo real**, permitindo detectar e reconhecer rostos instantaneamente.
+
+---
+
+### Resultado
+Abaixo, um exemplo do sistema detectando meu rosto com **100% de confiança**:
+
+![Reconhecimento Facial em Tempo Real](images/img2.png)
+
 ---
 
 ## 🔧 Tecnologias Utilizadas  
